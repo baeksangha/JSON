@@ -16,4 +16,4 @@ public class Sample {
     public int getBornYear() {
         return 2018-this.age;
     }
-}
+}//

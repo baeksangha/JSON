@@ -12,4 +12,4 @@ public class Name {
         this.familyName = name.substring(0,1);
         this.firstName = name.substring(1);
     }
-}
+}//

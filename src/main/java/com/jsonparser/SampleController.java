@@ -9,4 +9,4 @@ public class SampleController {
     public @ResponseBody Sample parseJSON(@RequestBody Sample sample) {
         return sample;
     }
-}
+}//
